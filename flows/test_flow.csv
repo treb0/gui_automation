@@ -1,5 +1,6 @@
 action,location_method,before_sleep_s,after_sleep_s,x,y,image_name,text,interval_s
 data csv,test1.csv,,,,,,,
+sleep,,5,,,,,,
 move,absolute coordinates,2,,200,100,,,
 click,absolute coordinates,2,,300,200,,,0
 click,absolute coordinates,2,,700,700,,,0
